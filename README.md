@@ -11,8 +11,8 @@
     - 주석
 
 ```python
-# desc : 콘솔출력
-print('Hello, Python!!') 
+# desc : 콘솔출력 - 주석
+print('Hello, Python!!') # 콘솔출력 함수 
 ```
 
 ## 2일차
@@ -20,4 +20,16 @@ print('Hello, Python!!')
     - 변수
     - 자료형
     - 연산자
-    - 흐름제어
+   
+```python
+# 변수
+val = 1
+
+# 자료형
+print(type(val)) # <class'int'>
+
+# 문자열 포맷팅
+pi = 3.141592
+print(f'파이는 {pi:0.2f} 입니다.') # 파이는 3.14 입니다.
+print(f'파이는 {pi:10.3f} 입니다.') # 파이는          3.142 입니다.
+```
