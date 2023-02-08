@@ -92,6 +92,9 @@ print(f'파이는 {pi:10.3f} 입니다.') # 파이는          3.141 입니다.
             - 데이터포털 OpenAPI 크롤링
             - BeautifulSoup 크롤링
 
+![실행화면](https://raw.githubusercontent.com/yeseoz/studyPython2023/main/Images/jupyter_folium.png)
+Folium OpenAPI 연동화면
+
 
 ## 9일차
 1. 파이썬 응용
