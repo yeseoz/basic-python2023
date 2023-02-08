@@ -87,7 +87,7 @@ print(f'파이는 {pi:10.3f} 입니다.') # 파이는          3.141 입니다.
     - 라이브러리 사용법
         - 웹크롤링용 라이브러리
             - urllib.request
-        - 웹 크롤링
+        - 웹 크롤링 [소스](https://github.com/yeseoz/studyPython2023/blob/main/Day08/code44_web_crawling_tutorial.ipynb)
             - 기상청 오늘의 날씨 크롤링
             - 데이터포털 OpenAPI 크롤링
             - BeautifulSoup 크롤링
