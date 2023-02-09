@@ -99,6 +99,11 @@ Folium OpenAPI 연동화면
 ## 9일차
 1. 파이썬 응용
     - GUI 개발
-        - PyQt 소개, 서리 (pip install PyQt5)
+        - PyQt 소개, 설치 (pip install PyQt5)
         - Tkinter 소개
+        
+        
+![실행화면](https://raw.githubusercontent.com/yeseoz/studyPython2023/main/Images/GUI_Programming.png)
+
+첫 GUI 화면
     
