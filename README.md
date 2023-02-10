@@ -101,9 +101,19 @@ Folium OpenAPI 연동화면
     - GUI 개발
         - PyQt 소개, 설치 (pip install PyQt5)
         - Tkinter 소개
-        
+        - PyQt 기본 사용법
+        - 위젯
         
 ![실행화면](https://raw.githubusercontent.com/yeseoz/studyPython2023/main/Images/GUI_Programming.png)
 
 첫 GUI 화면
     
+
+## 10일차
+1. 파이썬 응용
+    - GUI 개발
+        - PyQt 위젯 계속
+        - PyQt 다이얼 로그
+
+![실행화면](https://raw.githubusercontent.com/yeseoz/studyPython2023/main/Images/dialog.png)
+        
