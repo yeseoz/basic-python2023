@@ -110,7 +110,7 @@ Folium OpenAPI 연동화면
     
 
 ## 10일차
-1. 파이썬 응용
+1. 파이썬 응용 [소스](https://github.com/yeseoz/studyPython2023/blob/main/Day10/code59_pyqt_filedialog.py)
     - GUI 개발
         - PyQt 위젯 계속
         - PyQt 다이얼 로그
